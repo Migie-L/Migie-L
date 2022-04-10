@@ -2,7 +2,7 @@
 - 👀 I’m interested in arts, traveling, challenging.
 - 🌱 I’m currently learning Python & PostgreSQL
 - 💞️ I’m looking to collaborate on any projects could pritical use Python or SQL.
-- 📫 How to reach me: migie623@gmail.com
+- 📫 How to reach me: migie8jp@gmail.com
 
 <!---
 Migie-L/Migie-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
